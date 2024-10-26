@@ -248,7 +248,6 @@ const updateUserDetails = asyncHandler(async (req,res)=>{
 
 const updateAvatar = asyncHandler(async (req,res)=>{
     const avatarLocalPath = req.file?.path;
-    const token = req.cookies.accessToken || req.header("Authorization").replace("Bearer ", "");
     const prevAvatar = req.user.avatar
 
     if(!avatarLocalPath){
