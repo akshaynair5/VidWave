@@ -1,7 +1,7 @@
 # VidWave
 
 ## Description
-This project is a comprehensive video sharing platform that allows users to upload, manage, and interact with videos, playlists, comments, and user profiles. The application includes features for user registration, authentication, channel subscriptions, video management, and social interactions, such as liking comments and videos.
+This project is a comprehensive scalable microservice-based backend API for a video sharing platform that allows users to upload, manage, and interact with videos, playlists, comments, and user profiles. The application includes features for user registration, authentication, channel subscriptions, video management, and social interactions, such as liking comments and videos.
 
 ## Table of Contents
 - [Features](#features)
