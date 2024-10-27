@@ -106,8 +106,8 @@ This project is a comprehensive scalable microservice-based backend API for a vi
 - JWT (for authentication)
 
 ## Installation
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone [<repository-url>](https://github.com/akshaynair5/VidWave.git)`
+2. Navigate to the project directory: `cd VidWave`
 3. Install dependencies: `npm install`
 4. Set up environment variables as needed.
 5. Start the server: `npm start`
